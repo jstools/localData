@@ -1,0 +1,24 @@
+{
+  "name": "jengine-storage",
+  "main": "storage.js",
+  "version": "0.1.0",
+  "authors": [
+    "Jesús Germade <jesus@germade.es>"
+  ],
+  "description": "powered localstorage handler",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "localstorage"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jstools/storage",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

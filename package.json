@@ -1,0 +1,30 @@
+{
+  "name": "jengine-storage",
+  "version": "0.1.0",
+  "description": "powered localstorage handler",
+  "main": "storage.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jstools/storage.git"
+  },
+  "keywords": [
+    "localStorage",
+    "javascript"
+  ],
+  "author": "Jesús Germade <jesus@germade.es>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jstools/storage/issues"
+  },
+  "homepage": "https://github.com/jstools/storage#readme",
+  "devDependencies": {
+    "colors": "^1.1.2",
+    "glob": "^5.0.14",
+    "jshint": "^2.8.0",
+    "node-watch": "^0.3.4",
+    "uglify-js": "^2.4.23"
+  }
+}
